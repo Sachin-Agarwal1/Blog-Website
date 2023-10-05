@@ -1,0 +1,14 @@
+#image{
+    height: 500px;
+    width: 1400px;
+}
+
+.col-md-6:hover{
+    box-shadow: 2px 2px 4px black;
+    border-radius: 10px;
+    transition: 0.8s;
+}
+
+#margin{
+    margin-left: 50px;
+}
